@@ -1,0 +1,11 @@
+<svg width="240" height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="80" fill="#0B1121" rx="4"/>
+  <g transform="translate(15, 15) scale(1.8)">
+    <path d="M5 18L11 8L19 4" stroke="#00D4FF" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+    <circle cx="5" cy="18" r="2.5" fill="#00D4FF" />
+    <circle cx="11" cy="8" r="2.5" fill="#00D4FF" />
+    <circle cx="19" cy="4" r="2.5" fill="#00D4FF" />
+    <path d="M13 19V13L18 16L13 19Z" fill="white" />
+  </g>
+  <text x="75" y="52" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="white">Zero<tspan fill="#00D4FF">Task</tspan></text>
+</svg>
